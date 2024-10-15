@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Elmirah's Blog</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+</head>
+<body style="font-family: 'Poppins', sans-serif; margin: 0; padding: 0; color: #d67298;">
+https://github.com/ElmirahB/Elmirah-s-blog/tree/main
+    <header style="background-color: #f8f9fa; padding: 20px; text-align: center;">
+        <div class="header-content" style="max-width: 80%; margin: 0 auto;">
+            <hr style="border: none; height: 5px; background-color: #d67298; margin: 20px 0;">
+
+            <div class="nav-sections" style="margin-bottom: 20px;">
+                <a href="#about-me" style="display: inline-block; margin-right: 2cm; color: #d67298; font-weight: bold; font-size: 18px;">
+                    <i class="fas fa-ribbon" style="margin-right: 8px;"></i>About Me
+				<a href="My-Hobbies-and-Likes" style="display: inline-block; margin-right: 2cm; color: #d67298; font-weight: bold; font-size: 18px;">
+                    <i class="fas fa-bucket" style="margin-right: 8px;"></i>My Hobbies & Likes
+                </a>
+				 <a href="#My-Motivation" style="display: inline-block; margin-right: 2cm; color: #d67298; font-weight: bold; font-size: 18px;">
+                    <i class="fas fa-car" style="margin-right: 8px;"></i>My Motivation
+                </a>
+                <a href="#journey-so-far" style="display: inline-block; margin-right: 2cm; color: #d67298; font-weight: bold; font-size: 18px;">
+                    <i class="fas fa-car" style="margin-right: 8px;"></i>Journey so Far
+                </a>
+            </div>
+
+            <hr style="border: none; height: 1px; background-color: #d67298; margin: 5px 0 20px 0;">
+            <img src="file:///C:/Users/Administrator/Desktop/New%20folder/banner.png" alt="Banner(Beach Vibes)" style="max-width: 100%; height: auto; margin-top: 20px;">
+        </div>
+    </header>
+
+    <div id="about-me" style="max-width: 80%; margin: 0 auto;"> 
+        <div class="about-me-title" style="text-align: center; font-size: 24px; font-weight: bold; margin: 20px 0;">About me</div>
+
+        <img src="file:///C:/Users/Administrator/Downloads/BACUD%202x2%20picture.png" alt="A picture of myself" style="float: left; width: 200px; height: 200px; border-radius: 50%; border: 3px solid #d67298; margin-top: 20px; margin-left: 10cm;">
+
+        <div class="description" style="float: left; margin-left: 20px; max-width: 50%; text-align: justify; color: gray; position: relative; z-index: 1; padding: 0 20px;">
+            <h2 style="font-family: 'Poppins', cursive; font-size: 20px; margin: 0;">Hello~</h2>
+            <p style="font-size: 18px; margin: 45px 0;">I’m Elmirah Gloraine Bacud, but you can call me El—it's easier to say when you’re in a hurry. I was born on May 8, 2009, and I currently reside in Zone 5, Bonbon, Cagayan de Oro City. I'm a Grade 10 student from G10 Socrates, navigating the exciting and sometimes chaotic life of high school. I live with my parents, Mama and Papa, and we’re a small family of three. We enjoy spending time together, whether we’re trying out new places to eat or having movie nights full of laughs and popcorn.</p>
+        </div>
+    </div>
+
+    <img src="file:///C:/Users/Administrator/Downloads/Yellow%20&%20Blue%20Unit%20Tests%20Google%20Classroom%20Header%20%20%20(8).png" alt="Me and My Family" style="display: block; margin: 30px auto; max-width: calc(80% - 40px); height: auto;">
+
+    <div id="My-Hobbies-and-Likes" style="max-width: 80%; margin: 0 auto;"> 
+        <div class="about-me-title" style="text-align: center; font-size: 24px; font-weight: bold; margin: 20px 0;">My Hobbies and Likes</div>
+		
+<div style="display: flex; align-items: flex-start; justify-content: center; margin: 20px auto; max-width: 80%;">
+    <div class="hobby-description" style="display: flex; gap: 70px; max-width: 100%; color: gray; font-size: 18px;">
+        
+        <div style="border: 2px solid #d67298; border-radius: 10px; padding: 15px; background-color: #f8f9fa; width: 250px;">
+            <img src="file:///C:/Users/Administrator/Desktop/New%20folder/1.png" alt="Playing Volleyball" style="width: 100%; height: auto; border-radius: 8px; margin-bottom: 10px;">
+            <p style="margin: 0;">In my free time, I have a wide range of hobbies that keep me busy and entertained. I’m a big fan of volleyball and enjoy playing whenever I can. I also cherish hanging out with my friends, although I’m extroverted, madali rin akong malowbat—social interactions can drain me quickly.</p>
+        </div>
+
+        <div style="border: 2px solid #d67298; border-radius: 10px; padding: 15px; background-color: #f8f9fa; width: 250px;">
+            <img src="file:///C:/Users/Administrator/Desktop/New%20folder/2.png" alt="Movies" style="width: 100%; height: auto; border-radius: 8px; margin-bottom: 10px;">
+            <p style="margin: 0;">Movies are another love of mine! I love the way movies pull you in and keep you guessing what’s going to happen next. My favorites span comedy, romance, and horror. On quieter days, I dive into documentaries to satisfy my curiosity about the world around me.</p>
+        </div>
+
+        <div style="border: 2px solid #d67298; border-radius: 10px; padding: 15px; background-color: #f8f9fa; width: 250px;">
+            <img src="file:///C:/Users/Administrator/Desktop/New%20folder/3.png" alt="Love for Science" style="width: 100%; height: auto; border-radius: 8px; margin-bottom: 10px;">
+            <p style="margin: 0;">Speaking of curiosity, I have an insatiable love for science, which helps me understand everything from the tiniest particles to the vastness of space. It makes me question things, like, "How did life originate on Earth"?</p>
+        </div>
+
+        <div style="border: 2px solid #d67298; border-radius: 10px; padding: 15px; background-color: #f8f9fa; width: 250px;">
+            <img src="file:///C:/Users/Administrator/Desktop/New%20folder/4.png" alt="Listening to Music" style="width: 100%; height: auto; border-radius: 8px; margin-bottom: 10px;">
+            <p style="margin: 0;">When I need a break, you’ll find me listening to a mix of pop, OPM, and rock music. Whether it’s the upbeat rhythms or the meaningful lyrics, music has this way of lifting my spirits. It’s like a reset button, letting me step away from everything for a bit and just vibe with the moment.</p>
+        </div>
+        
+    </div>
+</div>
+
+
+<h2 id="My-Motivation" style="text-align: center; margin-top: 40px;">My Motivation</h2>
+
+<div style="text-align: center; margin: 20px;">
+    <audio controls>
+        <source src="file:///C:/Users/Administrator/Downloads/download.mp3" type="audio/mpeg">
+    </audio>
+</div>
+
+<div style="margin: 20px auto; max-width: 80%; text-align: center;"> <!-- Center the entire block -->
+    <div class="hobby-description" style="max-width: 60%; color: gray; font-size: 18px; margin: 0 auto;"> <!-- Center this part too -->
+        <h4 style="text-align: center;"><b>Proverbs 3:5-6</b></h4>
+        <p style="text-align: center;">Trust in the Lord with all your heart and lean not on your own understanding;</p>
+        <p style="text-align: center;">In all your ways submit to him, and he will make your paths straight.</p>
+    </div>
+</div>
+
+<h2 id="journey-so-far" style="text-align: center; margin-top: 40px;">Journey so far</h2>
+<div style="display: flex; align-items: flex-start; margin: 20px auto; max-width: 80%;">
+    <div class="journey-description" style="max-width: 100%; margin-right: auto; text-align: justify; color: gray; padding-left: 20px; font-size: 18px; margin-right: 0;">
+        <p>I cherish moments spent with friends and family, and I’m actively involved in volunteering for community service. I’m proud to serve as the <strong>President of the Philippine Society of Youth Science Clubs (PSYSC)</strong>, where I get to lead initiatives that promote scientific awareness and environmental stewardship among my peers. I believe in the power of youth to create positive change, and I strive to inspire others to embrace science in their lives.</p>
+        <p>I am also serving as the <strong>Sergeant at Arms for the Der Deutscherverein</strong> allows me to immerse myself in German culture while fostering connections with fellow students.</p>
+        <p>Moreover, I am a <strong>photojournalist for The Vanguards</strong>, where I capture candid moments and tell stories through my lens.</p>
+        <p>So, that’s me in a nutshell: a curious, chaotic, science-obsessed student who’s still figuring things out, but enjoying the ride along the way.</p>
+    </div>
+</div>
+
+
+<div style="border: none; height: 0px; background-color: #d67298; margin: 5px 0 40px 0; text-align: center;"> <!-- Increased margin-bottom -->
+    <img src="file:///C:/Users/Administrator/Desktop/New%20folder/Journey%20so%20Far.png" alt="PSYSC Family & Friends" style="max-width: 80%; height: auto; margin-top: 20px; margin-bottom: 20px;"> <!-- Added margin-bottom to image -->
+</div>
+
+<div class="footer" style="background-color: black; color: white; text-align: center; padding: 0px 0; margin-top: 370px;">
+    <p>Thank you for visiting! Be updated on me through my socials!</p>
+    <p>
+        <a href="https://www.facebook.com/elmirah.bacud.372" target="_blank" style="color: #FB5CA1; text-decoration: none;">Facebook | </a> 
+        <a href="https://www.instagram.com/elbacud_/" target="_blank" style="color: #FB5CA1; text-decoration: none;">Instagram</a>
+    </p>
+</div>
+
+</font>
+</body>
+</html>
